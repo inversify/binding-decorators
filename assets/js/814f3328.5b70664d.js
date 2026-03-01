@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunk_inversifyjs_inversify_binding_decorators_docs_site=self.webpackChunk_inversifyjs_inversify_binding_decorators_docs_site||[]).push([["106"],{4200:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Welcome","permalink":"/binding-decorators/blog/welcome","unlisted":false,"date":"2025-02-08T00:00:00.000Z"}]}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_inversifyjs_inversify_binding_decorators_docs_site=self.webpackChunk_inversifyjs_inversify_binding_decorators_docs_site||[]).push([["212"],{7001(e){e.exports=JSON.parse('{"metadata":{"permalink":"/binding-decorators/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

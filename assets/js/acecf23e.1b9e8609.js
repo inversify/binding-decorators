@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_inversifyjs_inversify_binding_decorators_docs_site=self.webpackChunk_inversifyjs_inversify_binding_decorators_docs_site||[]).push([["220"],{1912(s){s.exports=JSON.parse('{"blogBasePath":"/binding-decorators/blog","blogTitle":"Blog","authorsListPath":"/binding-decorators/blog/authors"}')}}]);
